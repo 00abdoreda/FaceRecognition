@@ -24,14 +24,13 @@
 ## Run on 0.0.0.0
 
 1. Start the application:
-    ```
+    
     ```
     cd api/
-    ```
-    ```
+    
     uvicorn main:app --host 0.0.0.0 --port 8000
     ```
-    ```
+    
 2. Open the service at:
     ```
     http://0.0.0.0:8000
