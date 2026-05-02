@@ -35,5 +35,10 @@
     ```
     http://0.0.0.0:8000
     ```
+3. to post request send a post in form data and image as 
+```
+key :file type:File
+http://0.0.0.0:8000/recognize
+```
 
 Adjust file names and ports if your project uses different scripts or configuration.
