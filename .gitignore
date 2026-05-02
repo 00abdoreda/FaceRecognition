@@ -1,2 +1,5 @@
 venv
 venv311
+model
+training/dataset
+training/dt
